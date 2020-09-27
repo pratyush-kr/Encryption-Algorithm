@@ -1,2 +1,2 @@
 # Encryption-Algorithm
-It encrypts data
+It encrypts data randomly which can then be retrieved
